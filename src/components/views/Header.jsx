@@ -28,7 +28,8 @@ const Header = () => {
 
     </ul>
 
-       <button  className="shadow-xl shadow-black bg-green-400  hover:bg-green-700 md:text-sm sm:text-base p-2">Connect Wallet</button>
+       <button  className="shadow-xl shadow-black bg-green-400  hover:bg-green-700 md:text-sm sm:text-base p-2
+        rounded-full">Connect Wallet</button>
     </nav>
 
    )

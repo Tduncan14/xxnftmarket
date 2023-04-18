@@ -20,7 +20,7 @@ const Header = () => {
     </div>
 
 
-    <ul className="md:flex-[0.5] md:flex list-none justify-between items-center flex-initial">
+    <ul className="md:flex-[0.5] hidden md:flex list-none justify-between items-center flex-initial">
         <Link to="/" className="mx-4">Market</Link>
         <Link to="/collections" className="mx-4">Collection</Link>
         <Link to="/artists" className="mx-4">Artist</Link>
